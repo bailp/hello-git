@@ -2,7 +2,9 @@
 
 $now=date();
 
-echo "Hello, now is ${now}";
+echo "Hello, now is ${now}\n";
+
+echo 'Who are you?';
 
 
 
