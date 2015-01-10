@@ -6,7 +6,8 @@ echo "Hello, now is ${now}\n";
 
 echo 'Who are you?';
 
-print_r($_GET);
+print_r($_POST);
+
 
 
 
