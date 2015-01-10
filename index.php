@@ -8,6 +8,7 @@ echo 'Who are you?';
 
 print_r($_POST);
 
+var_dump($now);
 
 
 
