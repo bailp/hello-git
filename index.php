@@ -12,6 +12,9 @@ var_dump($now);
 
 print_r($_POST);
 
+
+echo 'this is for master branch';
+
 /* End of file index.php */
 /* Location: ./index.php */
 
