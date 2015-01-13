@@ -15,6 +15,8 @@ print_r($_POST);
 
 echo "this is a branch for bug fix";
 
+print_r("this is for remote branch test");
+
 /* End of file index.php */
 /* Location: ./index.php */
 
